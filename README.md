@@ -1,2 +1,3 @@
 # Python-Turtle-Designs
 “Turtle” is a Python feature like a drawing board, which lets us command a turtle to draw all over it! We can use functions like turtle.forward(…) and turtle.right(…) which can move the turtle around.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Playing around Turtle is really fun. <a href="https://t.co/oalMQuGpAY">pic.twitter.com/oalMQuGpAY</a></p>&mdash; Anurag Singh (@d17012002) <a href="https://twitter.com/d17012002/status/1475508116586254338?ref_src=twsrc%5Etfw">December 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
